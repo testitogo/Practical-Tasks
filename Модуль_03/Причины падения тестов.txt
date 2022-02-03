@@ -1,0 +1,12 @@
+{ExternalDataProcessor.РаботаСИнтерфейсом.Form.Форма.Form(3184)}: Unable to move to the required line in <BasisesTree> table. 
+		| 'Currency' | 'Price'  | 'Quantity' | 'Row presentation' | 'Unit' | 'Use' | 
+		| 'TRY'      | '350,00' | '7,000'    | 'Shirt (36/Red)'   | 'pcs'  | 'No'  | 
+Value <7,000 > from <Quantity > column is not found.
+
+Ошибка: Тестовое значение в колонке Quantity не найдено
+
+{ExternalDataProcessor.РаботаСИнтерфейсом.Form.Форма.Form(3184)}: Unable to move to the required line in <BasisesTree> table. 
+		| 'Currency' | 'Price'  | 'Quantity' | 'Row presentation' | 'Unit' | 
+		| 'TRY'      | '100,00' | '10,000'   | 'Dress (S/Yellow)' | 'pcs'  | 
+		
+Ошибка: тестовая строка не найдена
