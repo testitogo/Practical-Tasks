@@ -1,9 +1,24 @@
+Error calling context method (ExecuteCommand):
+Ошибка: Попытка вызвать не доступный метод
+
+Expected number of lines in <BasisesTree> table is равно 0 and actual number is <2>.
+Ошибка: Ожидаемое количество строк в таблице <BasisesTree> равно 0, а фактическое число равно 2.
+
+Form table named <List> is not found.
+Ошибка: Таблица формы с именем <Список> не найдена.
+
+Line No.
+Ошибка: Строка №6 не найдена в документе электронной таблицы на форме
+
 {ExternalDataProcessor.РаботаСИнтерфейсом.Form.Форма.Form(3184)}: Unable to move to the required line in <BasisesTree> table. 
 		| 'Currency' | 'Price'  | 'Quantity' | 'Row presentation' | 'Unit' | 'Use' | 
 		| 'TRY'      | '350,00' | '7,000'    | 'Shirt (36/Red)'   | 'pcs'  | 'No'  | 
 Value <7,000 > from <Quantity > column is not found.
 
 Ошибка: Тестовое значение в колонке Quantity не найдено
+
+The button/command with <Sales invoice> header is not found.
+Ошибка: Кнопка/команда с заголовком <Счет-фактура продажи> не найдена.
 
 {ExternalDataProcessor.РаботаСИнтерфейсом.Form.Форма.Form(3184)}: Unable to move to the required line in <BasisesTree> table. 
 		| 'Currency' | 'Price'  | 'Quantity' | 'Row presentation' | 'Unit' | 
